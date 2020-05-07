@@ -6,7 +6,8 @@ binary tree method or recursive method ..
 in this method it more like recursion method.
 
 i also implemented an Astar pathfinding method in this;
-link to my full project astar: https://github.com/Josephbakulikira/Astar-PathFinding-Python
+link to my full project astar with Python: https://github.com/Josephbakulikira/Astar-PathFinding-Python
+link to my full project astar with c-sharp: https://github.com/Josephbakulikira/Pathfinding-visualisation---unity-Csharp
 ![maze (2)](https://user-images.githubusercontent.com/48150537/81339398-bfde5000-90cb-11ea-84fc-f6e7780157de.png)
 ![maze2 (2)](https://user-images.githubusercontent.com/48150537/81339400-c1a81380-90cb-11ea-8c05-32839ca9a48f.png)
 
